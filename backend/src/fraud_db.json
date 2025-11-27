@@ -7,8 +7,8 @@
         "transactionAmount": "$450.00",
         "transactionTime": "2:30 AM EST",
         "transactionSource": "hetpatel1b@gmail.com",
-        "case_status": "confirmed_fraud",
-        "notes": "User denied the transaction of $450.00 at HP Data Center (hetpatel1b@gmail.com)."
+        "case_status": "confirmed_safe",
+        "notes": "User confirmed the transaction as legitimate."
     },
     {
         "userName": "Sarah",
